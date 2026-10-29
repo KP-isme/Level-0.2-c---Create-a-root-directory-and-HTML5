@@ -173,20 +173,20 @@ ball.move();
 
     if(w)
     {
-        player1.y -= 18;
+        player1.y -= 20;
     }
     if(s)
     {
-        player1.y += 18;
+        player1.y += 20;
     }
     
     if(up)
     {
-        player2.y -= 18;
+        player2.y -= 20;
     }
     if(down)
     {
-        player2.y += 18;
+        player2.y += 20;
     }
 
 
