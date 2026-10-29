@@ -18,7 +18,7 @@ ball = new GameObject(50,canvas.height/2,100,100,"#3c00ff");
 player1.vx = 0;
 player1.vy = 0;
 player2.vx = 0;
-player2.vy = 0;
+player2.vy = 0; 
 ball.vx = 5;
 ball.vy = 0;
 
