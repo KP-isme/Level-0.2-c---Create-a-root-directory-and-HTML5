@@ -103,7 +103,7 @@ else
 */
 context.clearRect(0,0,canvas.width,canvas.height);
 context.fillStyle = "black";
-context.fillText("Score: " + Score,425,12);
+context.fillText("Score: " + Score,425,82);
 
 ball.move();
     if (ball.x > canvas.width - ball.width/2)
